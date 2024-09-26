@@ -30,12 +30,14 @@
 다른 스도쿠 게임처럼, 어느 부분이 틀렸는지는 알려주지 않습니다.
 <br/>
 참고로 아래의 부분이 틀렸습니다.
+<br/>
      ![4](https://github.com/user-attachments/assets/4890574d-2d29-40d1-ae68-a03f6a610b5f)
 
 <br/>
 <br/>
 <br/>
 4. 새 게임 버튼
+<br/>
      ![5](https://github.com/user-attachments/assets/0c58805c-086e-48d3-af84-1323dbc06fc3)
 <br/>
 새 게임 버튼을 누르면 게임 보드와 입력 정보들, 하단의 문구가 모두 초기화됩니다.
